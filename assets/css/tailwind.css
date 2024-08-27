@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.header-color {
+  @apply bg-pink-100/[0.8];
+}
