@@ -1,0 +1,1 @@
+import{_ as e,v as t,t as s,x as o}from"./eCvMLCrA.js";const c={},a={class:"p-3"},n=o("div",{class:"text-xl font-bold"},"訂單總覽",-1),_=[n];function r(d,i){return s(),t("div",a,_)}const f=e(c,[["render",r]]);export{f as default};
